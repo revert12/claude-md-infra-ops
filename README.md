@@ -11,7 +11,7 @@ A single `CLAUDE.md` with judgment guidelines for LLM agents (Claude Code, Codex
 | # | Principle | In one line |
 |---|---|---|
 | 1 | Stay in Scope | Questions get answers, reviews stay read-only, changes touch only what was asked |
-| 2 | Decide Before Asking | Ask only if it touches systems, is hard to undo, or needs someone else's approval |
+| 2 | Decide Before Asking | Ask only if it touches systems, is hard to undo, or belongs to someone else / needs approval |
 | 3 | Look at the Present First | The current system is the answer, not memory or old records |
 | 4 | Verify the Real State | A successful command is not a finished task |
 | 5 | Separate Facts from Guesses | Say "it can't be done" only after seeing the cause |
