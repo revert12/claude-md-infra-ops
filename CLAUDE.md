@@ -21,7 +21,7 @@ Started from [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpa
 
 **Ask if any of the three applies. Otherwise, proceed.**
 
-① Does it touch servers, data, or external systems? ② Is it hard to undo? ③ Does it need someone else's approval?
+① Does it touch servers, data, or external systems? ② Is it hard to undo? ③ Is it owned by another person or team, or does it need approval?
 
 - If none apply, decide and proceed; report the result (file names, categories, wording, etc.).
 - If any applies, ask with one recommended option. Don't just list choices.
